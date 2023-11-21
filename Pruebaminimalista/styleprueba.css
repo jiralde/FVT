@@ -16,6 +16,10 @@ header {
 
 nav {
   display: flex;
+  justify-content: flex-start; 
+  flex: 1;
+  position: relative;
+  left: 140px;
 }
 
 nav a {
@@ -34,4 +38,48 @@ img {
     background-size: cover;
     background-position: 50%;
     position: relative;
+}
+
+.search-bar {
+  display: flex;
+  align-items: center;
+}
+
+.search-bar input[type="text"] {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-right: 8px;
+  font-size: 14px;
+}
+
+.search-bar button {
+  padding: 8px 12px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.logo {
+  position: relative;
+  left: 40px;
+  height: 40px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333;
+  margin-right: 20px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #000000; /* Cambia el color del texto al pasar el cursor */
+  background-color: #d0d0d0; /* Establece el color de fondo al pasar el cursor */
+  padding: 10px 8px; /* Ajusta el espacio interno para que sea un bloque */
+
 }
