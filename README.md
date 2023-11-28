@@ -14,7 +14,7 @@
 <p>El proyecto de Los Ciber Toros trata sobre crear una página para el hospital de la falda.
 Esto es para facilitar y ayudar a la comunicacion dentro del hospital por eso mismo es que la página contara  con un turnero.</p>
 <br>
-<img src="img/WhatsApp Image 2023-11-28 at 10.31.19.jpeg" alt="LosToros" height="800">
+<img src="img/WhatsApp Image 2023-11-28 at 10.31.19.jpeg" alt="LosToros" height="100">
 
 <br>
 <p> Diagrama de Gantt </p>
