@@ -1,8 +1,8 @@
 <h1>  E Q U I P O: </h1>
-<center h1> L O S       C I B E R   T O R O S </h1>
+<center h1> L O S--C I B E R--T O R O S </h1>
 <br>
 <h1> I N T E G R A N T E S :</h1>
-<center div>
+<centerdiv>
     <p>     Maximiliano Olmos </p>         
     <p>     Giovanni Peirone </p>
     <p>     Mateo Teresani</p>
