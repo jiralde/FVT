@@ -163,3 +163,12 @@ nav a:hover {
 footer {
   margin-top: -20px;
 }
+
+.Carrusel {
+  height: 400px;
+  width: 400px;
+}
+
+main  {
+  background-image: url(imageeee.jpg);
+}
