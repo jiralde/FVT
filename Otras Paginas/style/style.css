@@ -16,8 +16,7 @@ header {
 }
 
 h1 {
-    color:#415995;
-    ;
+    color:#415995;;
     margin-top: 0;
     font-size: 48px;
     position: relative;
@@ -43,31 +42,19 @@ a {
     color: black;
     font-size: 20px;
 }
-.div1{
-    background-color: rgb(255, 255, 255);
-    width: 150px;
-    padding: 15px;
-}
 
-.div2{
-    background-color: rgb(255, 255, 255);
-    width: 900px;
-    padding: 50px;
-    margin-left: 15px;
-}
 
 .tamañoDeImajenDiv1{
     width: 100px;
     height: 50px;
 }
 
-.contenedor{
-    display: flex;
-    margin-top: 50px;
-    margin-left: 100px;
+.contenedor-1{
+    background-color: #415995;
+    margin: 1;
 }
 
 .Carrusel {
     height: 400px;
     width: 400px;
-  }
+}
