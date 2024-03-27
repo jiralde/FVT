@@ -1,16 +1,13 @@
 
-
-h4, h2,small,a{
-    margin: 0;
-    padding: 0;
-}
 a{
     text-decoration: none;
 }
+
 .Carousel{
     width: 100%;
-    margin-left: 5%;
-    margin-top: 500px;
+    margin-left: 1%;
+    margin-top: 50px;
+    margin-bottom: 20%;
 }
 .Carousel h2{
     font-size: 26px;
