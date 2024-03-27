@@ -31,3 +31,9 @@ nav a:hover {
     background-color: #d0d0d0; 
     padding: 10px 8px;
 }
+
+.iconoHeader{
+    height: 60px;
+    width: 60px;
+}
+
