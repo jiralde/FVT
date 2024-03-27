@@ -1,0 +1,68 @@
+.container {
+    margin-top: 5%;
+    margin-bottom: 10%;
+    position: relative;
+    top: 23px;
+    left: 385px;
+    background-color: whitesmoke;
+    object-position: center;
+    width: 600px;
+    height: 100px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+    align-items: center;
+    border-color: #c2f8fa;
+    border: 10px;
+}
+
+.bar {
+    position: relative;
+    top: 50px;
+    left: 70px;
+    
+}
+.barrita {
+    width: 300px;
+    height: 25px;
+    border-radius: 20px;
+}
+
+.botonbuscar {
+    width: 100px;
+    height: 25px;
+    border-radius: 10px;
+    background: #c2f8fa;
+    color: rgb(0, 0, 0);
+}
+
+.search-bar {
+    position: relative;
+    top: 35px;
+    left: 140px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .search-bar input[type="text"] {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 40px;
+    margin-right: 8px;
+    font-size: 14px;
+  }
+  
+  .search-bar button {
+    padding: 8px 12px;
+    background-color: #171717;
+    color: #fff;
+    border: none;
+    border-radius: 40px;
+    width: 100px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
+  .botonbuscar:hover {
+    background-color:#003264;
+    color: #000000;
+  }
