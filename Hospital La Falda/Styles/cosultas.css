@@ -56,4 +56,45 @@
     grid-column-end: 13;
     grid-row-start: 1;
     grid-row-end: -1;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: repeat(12, 1fr);
+}
+
+.input-chat{
+    border-top: 1px solid black;
+    background-color: rgb(164, 193, 167);
+    border-radius: 5px;
+    display: flex;
+    grid-column-start: 1;
+    grid-column-end: 13;
+    grid-row-start: 12;
+    grid-row-end: 13;
+}
+
+.input{
+    height: 50px;
+    width: 60%;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+.button-Enviar{
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+    height: 50px;
+    width: 30%;
+}
+
+.chat-text{
+    background-color: aqua;
+    border-radius: 10px;
+    border: 1px solid black;
+    grid-column-start: 1;
+    grid-column-end: 13;
+    grid-row-start: 1;
+    grid-row-end: 12;
+    margin: 2px;
 }
