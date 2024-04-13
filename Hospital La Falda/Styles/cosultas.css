@@ -1,7 +1,6 @@
 .container-Consultas{
     height: 800px;
     width: 1244px;
-    background-color: rgb(205, 205, 205);
     margin: 10px;
     margin-right: 20px;
     border-radius: 10px;
@@ -48,8 +47,6 @@
 }
 
 .chat{
-    background-color: white;
-    border-left: 1px solid black;
     border-radius: 10px;
     margin-left: 2px;
     grid-column-start: 5;
@@ -62,9 +59,9 @@
 }
 
 .input-chat{
-    border-top: 1px solid black;
+    border: 1px solid black;
     background-color: rgb(164, 193, 167);
-    border-radius: 5px;
+    border-radius: 10px;
     display: flex;
     grid-column-start: 1;
     grid-column-end: 13;
@@ -89,7 +86,7 @@
 }
 
 .chat-text{
-    background-color: aqua;
+    background-color: rgb(193, 236, 196);
     border-radius: 10px;
     border: 1px solid black;
     grid-column-start: 1;
