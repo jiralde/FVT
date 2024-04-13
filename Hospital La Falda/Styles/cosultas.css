@@ -1,0 +1,59 @@
+.container-Consultas{
+    height: 800px;
+    width: 1244px;
+    background-color: rgb(205, 205, 205);
+    margin: 10px;
+    margin-right: 20px;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: repeat(12, 1fr);
+}
+
+.contactos{
+    border-radius: 10px;
+    background-color: rgb(193, 236, 196);
+    grid-column-start: 1;
+    grid-column-end: 5;
+    grid-row-start: 1;
+    grid-row-end: 13;
+    border-right: 1px solid green;
+}
+
+.contacto-bot{
+    margin: 2%;
+    border-radius: 5px;
+    border: 1px solid green;
+    background-color: rgb(193, 236, 196);
+    display: flex;
+}
+
+.contacto-bot:hover{
+    background-color: rgb(132, 161, 134);
+}
+
+.img-bot{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+.nombre{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.chat{
+    background-color: white;
+    border-left: 1px solid black;
+    border-radius: 10px;
+    margin-left: 2px;
+    grid-column-start: 5;
+    grid-column-end: 13;
+    grid-row-start: 1;
+    grid-row-end: -1;
+}
