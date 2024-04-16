@@ -41,18 +41,18 @@
     left: 100px;
     display: flex;
     align-items: center;
-  }
+}
   
-  .search-bar input[type="text"] {
+.search-bar input[type="text"] {
     padding: 8px;
     border: 1px solid #ccc;
     border-radius: 40px;
     margin-right: 8px;
     width: 320px;
     font-size: 14px;
-  }
+}
   
-  .search-bar button {
+.search-bar button {
     padding: 8px 12px;
     background-color: #171717;
     color: #fff;
@@ -62,19 +62,22 @@
     height: 30px;
     font-size: 14px;
     cursor: pointer;
-  }
+}
   
-  .botonbuscar:hover {
+.botonbuscar:hover {
     background-color:#003264;
     color: #000000;
-  }
+}
+
+form{
+  display: grid;
+  background-color: whitesmoke;
+  border-radius: 10px;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3,1fr);
+}
 
 
-  .fondo-turno{
-    background-color: rgb(145, 145, 145);
-    padding-left: 100px;
-    padding-right: 100px;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    border-radius: 8%;
-  }
+.fondo-turno{
+  margin-left: 5%;
+}

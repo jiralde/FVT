@@ -1,0 +1,25 @@
+form{
+    display: grid;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3,1fr);
+}
+  
+  
+.fondo-turno{
+    margin-top: 10%;
+    margin-bottom: 2px;
+    height: 600px;
+    width: 700px;
+}
+
+label{
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+textarea{
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
