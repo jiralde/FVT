@@ -68,3 +68,13 @@
     background-color:#003264;
     color: #000000;
   }
+
+
+  .fondo-turno{
+    background-color: rgb(145, 145, 145);
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 8%;
+  }
