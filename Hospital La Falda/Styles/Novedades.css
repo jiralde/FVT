@@ -1,0 +1,16 @@
+.container-Nov{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin: auto;
+    
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: repeat(12, 1fr);
+    
+    background-color: whitesmoke;
+    border-radius: 10px;
+    width: 900px;
+    height: 550px;
+}
+
+#vermas{
+}
