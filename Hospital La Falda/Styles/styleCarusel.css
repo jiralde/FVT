@@ -49,18 +49,7 @@ a{
     display: flex;
     height: 100%;
 }
-.slick h4{
-    position: absolute;
-    z-index: 1;
-    font-size: 22px;
-    line-height: 23px;
-    color: #fff;
-    padding: 15px;
-}
-.slick h4 small{
-    font-size: 15px;
-    display: block;
-}
+
 .slick a img{
     object-fit: cover;
     height: 300px;

@@ -5,8 +5,7 @@ form{
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(3,1fr);
 }
-  
-  
+
 .fondo-turno{
     margin-top: 10%;
     margin-bottom: 2px;
