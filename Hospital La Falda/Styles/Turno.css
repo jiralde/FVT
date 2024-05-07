@@ -1,24 +1,68 @@
-form{
-    display: grid;
-    background-color: whitesmoke;
-    border-radius: 10px;
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(3,1fr);
+/* Reset de estilos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-.fondo-turno{
-    margin-top: 10%;
-    margin-bottom: 2px;
-    height: 600px;
-    width: 700px;
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
 }
 
-label{
-    grid-column-start: 2;
-    grid-column-end: 3;
+/* Estilos del formulario */
+.fondo-turno {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
-textarea{
-    grid-column-start: 2;
-    grid-column-end: 3;
+form {
+    position: relative;
+    top: -15px;
+    background-color: rgba(255, 255, 255, 0.9); /* Fondo semi-transparente */
+    padding: 20px;
+    border-radius: 20px;
+    height: 500px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+
+label {
+    position: relateve;
+    top: 200px;
+    display: block;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea {
+    width: calc(100% - 22px);
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+button {
+    position: relative;
+    top: 100px;
+    background-color: #1f8bff;
+    height: 90px;
+    color: #fff;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #027cff;
+}
+
