@@ -1,7 +1,7 @@
 .container-Nov{
     margin-top: 5%;
     margin-bottom: 5%;
-    margin: auto;
+    align-items: center;
 
     grid-template-columns: repeat(12, 1fr);
     grid-template-rows: repeat(12, 1fr);
