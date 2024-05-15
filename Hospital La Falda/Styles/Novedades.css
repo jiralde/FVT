@@ -1,8 +1,9 @@
 .container-Nov{
-    margin-top: 5%;
-    margin-bottom: 5%;
-    align-items: center;
 
+    display: block;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 10%;
     grid-template-columns: repeat(12, 1fr);
     grid-template-rows: repeat(12, 1fr);
     
@@ -12,4 +13,12 @@
 }
 
 #vermas{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: none;
+    background-color: whitesmoke;
+    color: black;
+}
+
+.vermas:hover{
+    color: rgb(139, 139, 139);
 }
