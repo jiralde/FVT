@@ -20,16 +20,14 @@ nav {
 
 nav a {
     text-decoration: none;
-    color: #333;
+    color: #000000;
     margin-right: 20px;
     font-size: 16px;
     font-weight: bold;
 }
 
 nav a:hover {
-    color: #000000; 
-    background-color: #d0d0d0; 
-    padding: 10px 8px;
+    color: rgb(139, 139, 139);
 }
 
 .iconoHeader{
