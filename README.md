@@ -14,8 +14,10 @@
 <p>El proyecto de Los Ciber Toros trata sobre crear una página para el hospital de la falda.
 Esto es para facilitar y ayudar a la comunicacion dentro del hospital por eso mismo es que la página contara  con un turnero.</p>
 <br>
-<img src="../img/Toros.jpeg" alt="LosToros" width="600" height="500">
+<img src="Hospital La Falda\img\Toros.jpg" alt="LosToros" width="600" height="500">
 
 <br>
 <p> Diagrama de Gantt </p>
 https://docs.google.com/spreadsheets/d/1gI9REXVxVzLNP_YMbZTHuq3QagQtgQ1r/edit?usp=sharing&ouid=105239212545012497254&rtpof=true&sd=true
+<p> Link Al Figma </p>
+https://www.figma.com/design/UZxrMrAYnP3Tv0JIj39tjY/Pagina-del-Hospital?node-id=0%3A1&t=zs1QJUehaVC9qsZ6-1
