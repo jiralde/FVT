@@ -13,14 +13,15 @@
 }
 
 #vermas{
+    border-radius: 5px;
     font-family: 'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
     border: none;
-    background-color: whitesmoke;
+    background-color: rgb(255, 255, 255);
     color: black;
 }
 
-.vermas:hover{
-    border-radius: 5px;
+#vermas:hover{
+    
     color: rgb(255, 255, 255);
     background-color: black;
 }
