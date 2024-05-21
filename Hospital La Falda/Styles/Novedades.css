@@ -4,8 +4,7 @@
     margin: auto;
     margin-top: 5%;
     margin-bottom: 10%;
-    grid-template-columns: repeat(12, 1fr);
-    grid-template-rows: repeat(12, 1fr);
+    
     
     background-color: whitesmoke;
     border-radius: 10px;
@@ -24,4 +23,8 @@
     
     color: rgb(255, 255, 255);
     background-color: black;
+}
+
+.NohayNoticias{
+    
 }
