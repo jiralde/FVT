@@ -11,21 +11,25 @@
     width: 900px;
 }
 
-#vermas{
+.vermas{
     border-radius: 5px;
     font-family: 'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
     border: none;
     background-color: rgb(255, 255, 255);
     color: black;
+    
 }
 
 #vermas:hover{
-    
     color: rgb(255, 255, 255);
     background-color: black;
+    
 }
 
 .NohayNoticias{
-    padding-left: 43%;
-    
+    font-size: 70px;
+    font-family: 'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
+    padding-top: 23%;
+    padding-left: 24%;
+    color: rgb(211, 210, 210);
 }
