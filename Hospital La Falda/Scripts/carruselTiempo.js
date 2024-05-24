@@ -1,6 +1,7 @@
 
 var n = 0;
 
+/*
 while (true)
 {
     window.setInterval(function(){
@@ -16,3 +17,4 @@ while (true)
     },1000);
 }
 
+*/
