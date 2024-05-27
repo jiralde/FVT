@@ -6,7 +6,7 @@
 body{
     background-image: url(../img/fondoaz.jpg); 
     background-color: rgb(210, 210, 210);
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     background-position: center;
     background-size:center/cover;
     overflow-x: hidden;
