@@ -8,7 +8,7 @@ footer {
 /*:::::Pie de Pagina*/
 .pie-pagina{
     width: 100%;
-    background-color: #07071a;
+    background-color: #111e3b;
 }
 .pie-pagina .grupo-1{
     width: 100%;
@@ -46,15 +46,15 @@ footer {
     line-height: 45px;
     color: #fff;
     margin-right: 10px;
-    background-color: #07071a;
+    background-color: #0e182f;
     text-align: center;
     transition: all 300ms ease;
 }
 .pie-pagina .grupo-1 .red-social a:hover{
-    color: rgb(31, 64, 212);
+    color: rgb(2, 13, 62);
 }
 .pie-pagina .grupo-2{
-    background-color: #020208;
+    background-color:#0a1224;
     padding: 15px 10px;
     text-align: center;
     color: #fff;
