@@ -13,7 +13,10 @@
     align-items: center;
     border-color: #c2f8fa;
     border: 10px;
+    font-size: 13px;
 }
+
+
 
 .bar {
     position: relative;
@@ -38,7 +41,7 @@
 .search-bar {
     position: relative;
     top: 35px;
-    left: 100px;
+    left: 70px;
     display: flex;
     align-items: center;
 }

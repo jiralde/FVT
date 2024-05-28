@@ -13,6 +13,7 @@
 ._div{
     padding-top: 34px;
     padding-left: 10px;
+    padding-bottom: 35px;
     border-radius: 5px;
     background-color: whitesmoke;
 }
@@ -23,7 +24,11 @@
 }
 
 .a {
-    background-color: black;
-    height: 1000px;
+    border-radius: 10px;
+    margin-top: 1px;
+    padding: 1%;
+    background-color:   rgb(231, 231, 231);
+    height: auto;
     width: 1000px;
 }
+

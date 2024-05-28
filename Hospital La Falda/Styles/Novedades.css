@@ -3,13 +3,11 @@
     display: block;
     margin: auto;
     margin-top: 5%;
-    margin-bottom: 10%;
-    
-    
-    
+    margin-bottom: 15%;
     background-color: whitesmoke;
     border-radius: 10px;
     width: 900px;
+    height: 600px;
 }
 
 .vermas{
